@@ -51,7 +51,7 @@ function! edge#get_palette(style, dim_foreground, colors_override) "{{{
             \ 'diff_yellow':['#4e432f',   '54'],
             \ 'red':        ['#ec7279',   '203'],
             \ 'yellow':     ['#deb974',   '179'],
-            \ 'green':      ['#85e89d',   '107'],
+            \ 'green':      ['#a4cdfc',   '107'],
             \ 'cyan':       ['#5dbbc1',   '72'],
             \ 'blue':       ['#9ecbff',   '110'],
             \ 'purple':     ['#d38aea',   '176'],
